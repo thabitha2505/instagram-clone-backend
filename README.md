@@ -4,6 +4,7 @@
 **Objective:** To create a basic user authentication system for a web application.
 **Features:**
 **Toggling Suggestions Visibility:**
+
 The code listens for the DOMContentLoaded event to ensure that the DOM is fully loaded before executing.
 It selects the "Follow All" button and all suggestion containers.
 When the "Follow All" button is clicked, it toggles the visibility of all suggestion containers by adding or removing the hidden class.
