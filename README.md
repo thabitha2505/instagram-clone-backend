@@ -1,1 +1,7 @@
 # instagram-clone-backend![Screenshot 2024-02-25 161303](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/3d996f9c-dd88-48cb-88bc-6b895d7fed99)
+![Screenshot 2024-02-25 161328](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/c12833a0-3054-437e-ae97-f7e624145691)
+![Screenshot 2024-02-25 161847](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/0dd46ce5-d36f-49e8-b8d8-2acadb4f3df0)
+![Screenshot 2024-02-25 161935](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/dc3cc8ad-b72a-4507-aaff-e46db7dd28f7)
+![Screenshot 2024-02-25 161429](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/58019199-0cf0-4537-a25d-a53fbec3b35c)
+![Screenshot 2024-02-25 161704](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/591de797-4675-400f-82dc-6b5d128cbbf0)
+![Screenshot 2024-02-25 162554](https://github.com/thabitha2505/instagram-clone-backend/assets/118505858/980e9b56-00ad-47d1-9dc4-57a8f01246bf)
