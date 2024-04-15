@@ -1,5 +1,6 @@
 
 # instagram-clone-backend
+**Deployed on Netlify :** https://instaweb.netlify.app   Manual deploys. Published on Feb 25.
 **Project Overview:**
 **Objective:** To create a basic user authentication system for a web application.
 
